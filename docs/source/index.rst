@@ -89,7 +89,7 @@ Alternatively:
 - Select **Printer > Run the troubleshooter**.
 - Follow the on-screen prompts.
 
-`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
+`Click Here: Get the Live Canon Printer Support `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
 
 How to Fix Canon Printer Offline Issue on Mac
 ---------------------------------------------
@@ -162,7 +162,7 @@ Go to **Printers & Scanners**, select your printer, click **Open Print Queue**, 
 
 **Q. Should I reinstall my printer driver if it shows offline?**
 
-Yes — outdated or corrupt drivers can cause offline issues. Download the latest version from `https://ij.start.canon` or Canon’s support site.
+Yes — outdated or corrupt drivers can cause offline issues. Download the latest version from `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ or Canon’s support site.
 
 **Q. Can resetting the printing system on Mac help?**
 
