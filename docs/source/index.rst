@@ -22,7 +22,7 @@ When your computer can't communicate with the printer, it marks it as "offline."
 
 Now, let’s fix it step-by-step.
 
-`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_ 
 
 How to Fix Canon Printer Offline Issue on Windows
 -------------------------------------------------
@@ -89,7 +89,7 @@ Alternatively:
 - Select **Printer > Run the troubleshooter**.
 - Follow the on-screen prompts.
 
-`Click Here: Get the Live Canon Printer Support `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_ 
 
 How to Fix Canon Printer Offline Issue on Mac
 ---------------------------------------------
@@ -126,7 +126,7 @@ If your printer remains offline:
 
 **5️⃣ Reinstall or Update Printer Driver**
 
-- Visit `https://ij.start.canon` or Canon’s official support site.
+- Visit `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_` or Canon’s official support site.
 - Download the latest macOS drivers for your printer.
 - Install the driver package.
 - Re-add the printer via **Printers & Scanners**.
